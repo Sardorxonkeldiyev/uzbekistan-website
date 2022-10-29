@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Bebas Neue' , cursive
+}
+
+p {
+    font-family: 'Roboto' , sans-serif;
+}
+
+.sitenav-list {
+    list-style: none;
+}
+
+.sitenav-link {
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+}
+ol {
+    list-style-type: none;
+}
+ol li a {
+    text-decoration: none;
+} 
+
